@@ -1,0 +1,1 @@
+Todos = new Mongo.Collection('todos', {connection: Services.Todos})
